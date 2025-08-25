@@ -27,3 +27,4 @@ func main() {
 	m := Image{w: 256, h: 256}
 	pic.ShowImage(m)
 }
+w
